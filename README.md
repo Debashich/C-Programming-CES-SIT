@@ -6,7 +6,7 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 
 | Day | Topic | File |
 | --- | --- | --- |
-| 1   | Hello World | `Hello World.c` |
+| 1   | Hello World | `Hello_World.c` |
 | 2   | Declaring and Initializing Variables | `var_init.c` |
 | 3   | Take input and print the values | `val_input.c` |
 | 4   | Arithmetic operations | `arith_opr.c` |

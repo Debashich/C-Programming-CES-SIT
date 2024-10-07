@@ -10,8 +10,8 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 2   | Declaring and Initializing Variables | `var_init.c` |
 | 3   | Take input and print the values | `val_input.c` |
 | 4   | Arithmetic operations | `arith_opr.c` |
-| 5   | IF-ELSE | `if_else.c` |
-| 6   | Find the Largest of Two Numbers using IF-ELSE | `largest.c` |
+| 5   | if-else | `if_else.c` |
+| 6   | Find the Largest of Two Numbers using if-else | `largest.c` |
 
 ## Author
 

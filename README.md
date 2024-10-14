@@ -12,6 +12,7 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 4   | Arithmetic operations | `arith_opr.c` |
 | 5   | if-else | `if_else.c` |
 | 6   | Find the Largest of Two Numbers using if-else | `largest.c` |
+| 7   | Ternary (Conditional) operator | `ternary.c` |
 
 ## Author
 

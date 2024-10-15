@@ -13,6 +13,7 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 5   | if-else | `if_else.c` |
 | 6   | Find the Largest of Two Numbers using if-else | `largest.c` |
 | 7   | Ternary (Conditional) operator | `ternary.c` |
+| 8   | Find the Largest of Three Numbers using nested-if | `nest_largest.c` |
 
 ## Author
 

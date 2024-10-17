@@ -15,6 +15,8 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 7   | Ternary (Conditional) operator | `ternary.c` |
 | 8   | Find the Largest of Three Numbers using nested-if | `nest_largest.c` |
 | 9   | Switch-case based calculator | `switch_case.c` |
+| 10  | Multiplication table using For, While and Do-while loop | `for_while_dowhile.c` |
+
 
 ## Author
 

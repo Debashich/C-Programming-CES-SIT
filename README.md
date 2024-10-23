@@ -21,6 +21,7 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 13  | Check if palindrome | `palindrome.c` |
 | 14  | Check if prime | `prime.c` |
 | 15  | Traverse 1D Array | `1d_array.c` |
+| 16  | Find the largest and smallest element in an array | `find_largest_smallest_array.c` |
 
 
 ## Author

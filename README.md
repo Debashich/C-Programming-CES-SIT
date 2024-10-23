@@ -16,6 +16,7 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 8   | Find the Largest of Three Numbers using nested-if | `nest_largest.c` |
 | 9   | Switch-case based calculator | `switch_case.c` |
 | 10  | Multiplication table using For, While and Do-while loop | `for_while_dowhile.c` |
+| 11  | Natural numbers | `natural_no.c` |
 | 12  | Find the sum of digits | `sum_of_digits.c` |
 | 13  | Check if palindrome | `palindrome.c` |
 | 14  | Check if prime | `prime.c` |

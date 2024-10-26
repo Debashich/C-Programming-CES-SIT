@@ -22,6 +22,7 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 14  | Check if prime | `prime.c` |
 | 15  | Traverse 1D Array | `1d_array.c` |
 | 16  | Find the largest and smallest element in an array | `find_largest_smallest_array.c` |
+| 17  | Sort an Array using any sorting technique| `sort_array.c` |
 
 
 ## Author

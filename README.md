@@ -24,6 +24,8 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 16  | Find the largest and smallest element in an array | `find_largest_smallest_array.c` |
 | 17  | Sort an Array using any sorting technique| `sort_array.c` |
 | 18  | Search an element in an Array using linear search| `linear_search_array.c` |
+| 19  | Search an element in an Array using binary search| `binary_search_array.c` |
+
 
 
 ## Author

@@ -26,6 +26,9 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 18  | Search an element in an Array using linear search| `linear_search_array.c` |
 | 19  | Search an element in an Array using binary search| `binary_search_array.c` |
 | 20  | Read and print a string| `string.c` |
+| 21  | Find the length of the string| `string_length.c` |
+| 22  | Implement basic functions| `basic_functions.c` |
+
 
 
 

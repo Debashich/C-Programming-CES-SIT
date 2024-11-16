@@ -28,6 +28,7 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 20  | Read and print a string| `string.c` |
 | 21  | Find the length of the string| `string_length.c` |
 | 22  | Implement basic functions| `basic_functions.c` |
+| 23  | Find the factorial of a number| `factorial.c` |
 
 
 

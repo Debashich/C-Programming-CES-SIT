@@ -33,7 +33,7 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 25  | Use recursion to reverse a number| `reverse.c` |
 | 26  | Find the Greatest Common Divisor of two numbers| `gcd.c` |
 | 27  | Swap two variables using Call by Value and Call by Reference| `swap.c` |
-
+| 28  | Recursive Sum Of Digits| `rec_sum_digits.c` |
 
 
 

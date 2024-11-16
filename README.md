@@ -30,6 +30,9 @@ This repository contains a **30-day programming challenge**. Each challenge focu
 | 22  | Implement basic functions| `basic_functions.c` |
 | 23  | Find the factorial of a number| `factorial.c` |
 | 24  | Use recursion to calculate the fibonacci series| `recursion_fibonacci.c` |
+| 25  | Use recursion to reverse a number| `reverse.c` |
+
+
 
 
 
